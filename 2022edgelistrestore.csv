@@ -1,0 +1,204 @@
+﻿label,source,target,id,Weight,Nature of Relationship,Weight_dynamic,Citation,size
+Corporate,96,88,94,1.0,CGE Partnership is founded with Clinton Foundation,"<[2008.0, 2016.0, 1.0]>",http://www.cgepartnership.com/,1
+Service,130,72,142,1.0,Quinn is a member of the CFR,"<[1.2365568E12, 1.479168E12, 1.0]>",https://www.academi.com/pages/about-us/board-of-directors/jack-quinn,1
+Corporate,139,134,154,1.0,Paul recieved a priority loan at Countrywide,,http://en.wikipedia.org/wiki/Angelo_Mozilo#Friends_of_Angelo_.28FOA.29_VIP_program,1
+Service,114,115,122,1.0,Jane Oates used to be a staffer for Kennedy,"<[6.31152E11, 1.2196188E12, 1.0]>",http://en.wikipedia.org/wiki/University_of_Phoenix,1
+Corporate,137,144,171,1.0,Dodd oversaw the bailout then got thousans in donations from AIG,"<[1.1991456E12, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Chris_Dodd#Fannie_Mae.2FFreddie_Mac_controversies,1
+Corporate,148,149,175,1.0,Tony Rodham works for GCFM,,http://web.archive.org/web/20110701134940/http://gulfcoastfunds.com/managementteam/TonyRodham.html,1
+Service,67,72,58,1.0,Member of CFR,"<[2008.0, 2016.0, 1.0]>",http://en.wikipedia.org/wiki/Members_of_the_Council_on_Foreign_Relations,1
+Corporate,51,53,19,1.0,Owner,"<[6.31152E11, 1.479168E12, 1.0]>",,1
+Corporate,67,96,92,1.0,Clinton was a founder of Clinton Giustra Enterprise Partnership,"<[2008.0, 2016.0, 1.0]>",http://www.cgepartnership.com/,1
+Service,67,69,39,1.0,Clinton defeated Bush in 1992,"<[6.94224E11, 1.479168E12, 1.0]>",,1
+Donor,80,66,70,1.0,Donated over 500k to Obama,"<[2008.0, 2016.0, 1.0]>",https://www.opensecrets.org/pres08/contrib.php?cid=N00009638,1
+Service,58,9,74,1.0,Biden was Senator while Castle was Representing DE,"<[2008.0, 2016.0, 1.0]>",,1
+Personal,133,9,146,1.0,Johnson was part of the team that chose Biden as VP,"<[1.1991456E12, 1.479168E12, 1.0]>",http://www.bloomberg.com/apps/news?pid=newsarchive&sid=aOyXeU0jfK_4&refer=home,1
+Corporate,67,89,91,1.0,Clinton helped Guistra get exclusive mining rights in Kazakhstan,"<[2008.0, 2016.0, 1.0]>",http://www.nytimes.com/2008/01/31/us/politics/31donor.html?_r=0,1
+Corporate,65,57,32,1.0,Policy Adviser at DLA Piper since December 2009,"<[1.2596256E12, 1.479168E12, 1.0]>",,1
+Shell Money,47,28,12,1.0,Shell PAC,"<[2008.0, 2016.0, 1.0]>",,1
+Service,67,68,40,1.0,Bush succedded Clinton in 2000,"<[9.466848E11, 1.479168E12, 1.0]>",,1
+Corporate,50,11,15,1.0,"Lockheed Martin is incorporated and is the largest contractor in Maryland, O'Malley's home state where he was previously governor","<[2008.0, 2016.0, 1.0]>",,1
+Corporate,57,56,22,1.0,DLA Piper hired Armey,"<[2008.0, 2016.0, 1.0]>",,1
+Personal,138,135,151,1.0,Mozilo and Jackson are friends,,http://en.wikipedia.org/wiki/Angelo_Mozilo#Friends_of_Angelo_.28FOA.29_VIP_program,1
+Corporate,140,134,162,1.0,Raines got preferred loans with countrywide for being friends with Mozilo,,http://www.wsj.com/articles/SB121279970984353933,1
+Personal,116,117,125,1.0,Pelosi and Sperling are close friends,"<[6.31152E11, 1.479168E12, 1.0]>",http://books.google.co.uk/books/about/Degrees_of_Inequality.html?id=sTBIKRk1LJ4C&redir_esc=y,1
+Personal,138,68,152,1.0,Bush and Jackson are friends,,http://en.wikipedia.org/wiki/Angelo_Mozilo#Friends_of_Angelo_.28FOA.29_VIP_program,1
+Personal,140,66,160,1.0,Raines was an alleged council to Obama,"<[1.201824E12, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Franklin_Raines#Question_of_Raines_and_Obama_connection,1
+Corporate,158,67,200,1.0,Clinton attended personal events at Osorio's residence prior to the 2008 election,,http://www.orlandosentinel.com/business/brinkmann-on-business/os-cnbc-tackles-claudio-osorio-jeb-bush-the-clintons-20150224-post.html,1
+Corporate,56,55,21,1.0,Founder,"<[2008.0, 2016.0, 1.0]>",,1
+Corporate,140,133,163,1.0,Raines and Jackson both gave advice to Obama and were in the countrywide scandal together,,Raines got preferred loans with countrywide for being friends with Mozilo,1
+Shell Money,45,43,10,1.0,Shell PAC,"<[2008.0, 2016.0, 1.0]>",,1
+Service,133,72,157,1.0,Johnson is allegedly in the CFR,"<[1.3569984E12, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/James_A._Johnson_(politics)#Other_memberships,1
+Corporate,125,121,135,1.0,John Ashcroft founded Ashcroft Group,"<[1.1045376E12, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/The_Ashcroft_Group,1
+Service,66,68,44,1.0,Obama succeeded Bush in 2008,"<[1.1991456E12, 1.479168E12, 1.0]>",,1
+Personal,156,88,186,1.0,"Viard is Donor at Clinton Foundation ($20,000)",,http://www.washingtonpost.com/politics/role-of-hillary-clintons-brother-in-haiti-gold-mine-raises-eyebrows/2015/03/20/c8b6e3bc-cc05-11e4-a2a7-9517a3a70506_story.html; http://dailycaller.com/2015/03/20/haiti-gold-mine-owner-invited-hillarys-brother-to-sit-on-board-after-meeting-him-at-clinton-global-initiative-meeting/,1
+Corporate,114,112,123,1.0,Jane Oates is the VP of Apollo Group,"<[1.3716828E12, 1.479168E12, 1.0]>",https://www.insidehighered.com/news/2013/06/20/apollo-hires-jane-oates-former-labor-department-official,1
+Corporate,88,96,95,1.0,CGE Partnership is founded with Clinton Foundation,"<[2008.0, 2016.0, 1.0]>",http://www.cgepartnership.com/,1
+Personal,148,67,181,1.0,Rodham negotiated pardon for bank fraud convicts with Clinton during his term as president. Clinton is his brother in law. ,,http://www.nytimes.com/2001/03/01/us/second-clinton-in-law-says-he-helped-to-obtain-pardon.html,1
+Personal,4,68,54,1.0,George and Jeb Bush are Brothers,"<[6.31152E11, 1.479168E12, 1.0]>",,1
+Corporate,97,96,96,1.0,Mark is head of CGE Partnership,"<[1.3280544E12, 1.479168E12, 1.0]>",http://www.cgepartnership.com/who-we-are/leadership/steering-committee-ceo/?show=67,1
+Service,130,67,140,1.0,Quinn was council to Bill Clinton,"<[7.258464E11, 8.835264E11, 1.0]>",http://en.wikipedia.org/wiki/Jack_Quinn_(lawyer),1
+Service,69,72,56,1.0,Member of CFR,"<[2008.0, 2016.0, 1.0]>",http://en.wikipedia.org/wiki/Members_of_the_Council_on_Foreign_Relations,1
+Service,1,88,81,1.0,Board of Directors for Clinton Foundation,"<[9.783072E11, 1.479168E12, 1.0]>",https://www.clintonfoundation.org/about/board-directors,1
+Personal,1,148,174,1.0,They are siblings,"<[6.31152E11, 1.479168E12, 1.0]>",,1
+Shell Money,50,29,14,1.0,LMT donates to the PAC as a shell donor,"<[2008.0, 2016.0, 1.0]>",,1
+Corporate,143,131,169,1.0,President and CEO from 2005–2008,"<[1.1045376E12, 1.2306816E12, 1.0]>",http://en.wikipedia.org/wiki/Fannie_Mae,1
+Corporate,89,90,83,1.0,Frank worked for Merrill Lynch,"<[2008.0, 2016.0, 1.0]>",http://en.wikipedia.org/wiki/Frank_Giustra#Investment_industry,1
+Corporate,124,146,173,1.0,"As Prime minister, Andreotti embezzled tens of millions with the vatican bank. Documented in the book: ""God's Bankers""",,http://www.npr.org/2015/01/30/382374060/from-laundering-to-profiteering-a-multitude-of-sins-at-the-vatican-bank,1
+Corporate,158,160,192,1.0,Osorio was the CEO of InnoVida,"<[1.1676096E12, 1.2937536E12, 1.0]>",http://en.wikipedia.org/wiki/Claudio_Osorio,1
+Personal,59,62,28,1.0,Previous Member,"<[2008.0, 2016.0, 1.0]>",,1
+Donor,18,12,1,1.0,Webb's PAC,"<[2008.0, 2016.0, 1.0]>",,1
+Corporate,121,127,137,1.0,Ashcroft is on the Board of Academi,"<[1.3042044E12, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/John_Ashcroft#Consultant_and_lobbyist,1
+Service,151,68,179,1.0,Blanco servied during Katrina and was Gov. overseeing LA when Bush went in with FEMA,,http://en.wikipedia.org/wiki/Kathleen_Blanco#Hurricane_Katrina,1
+Corporate,52,53,18,1.0,Owner,"<[6.31152E11, 1.479168E12, 1.0]>",,1
+Service,114,66,124,1.0,Obama appointed Oates official at Dept. Of Labor,"<[1.245366E12, 1.3385052E12, 1.0]>",http://en.wikipedia.org/wiki/Employment_and_Training_Administration,1
+Donor,83,5,75,1.0,RoF PAC was Romney's PAC in 2012 Election,"<[1.262304E12, 1.3529376E12, 1.0]>",https://www.opensecrets.org/orgs/summary.php?id=D000064429,1
+Personal,1,67,35,1.0,Married,"<[6.31152E11, 1.479168E12, 1.0]>",,1
+Corporate,160,162,196,1.0,InnoVida paid JBA for consulting,"<[1.1968128E12, 1.2845916E12, 1.0]>",http://www.nationalreview.com/article/412526/jeb-bushs-big-innovida-headache-jim-geraghty,1
+Corporate,122,120,131,1.0,Andreotti is CEO of BMS,"<[1.2726684E12, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Lamberto_Andreotti,1
+Donor,24,6,6,1.0,Huck Pack is Huckabee's PAC,"<[2008.0, 2016.0, 1.0]>",,1
+Service,157,67,190,1.0,"Clinton was part of UN envoy to Haiti and has a Haiti fund, Bellerive was PM, both are connected through Tony Rodham as well",,http://www.washingtonpost.com/politics/role-of-hillary-clintons-brother-in-haiti-gold-mine-raises-eyebrows/2015/03/20/c8b6e3bc-cc05-11e4-a2a7-9517a3a70506_story.html; http://news.bbc.co.uk/1/hi/8056762.stm,1
+Corporate,89,92,85,1.0,"From 2001 to 2007, Giustra was Chair of Endeavour Financial","<[9.783072E11, 1.1676096E12, 1.0]>",http://en.wikipedia.org/wiki/Frank_Giustra#Investment_industry,1
+Service,68,67,41,1.0,Bush succedded Clinton in 2000,"<[9.466848E11, 1.479168E12, 1.0]>",,1
+Service,9,58,73,1.0,Biden was Senator while Castle was Representing DE,"<[7.260192E11, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Michael_Castle,1
+Corporate,3,120,129,1.0,Christie didn't prosecute BMS but instead got them to donate to his alma mater,"<[1.1991456E12, 1.479168E12, 1.0]>",http://blog.nj.com/ledgerarchives/2008/11/christie_quits_setting_gop_whe_1.html,1
+Corporate,58,57,24,1.0,Michael Caster has been a partner of DLA Piper since 2011,"<[1.29384E12, 1.479168E12, 1.0]>",,1
+Personal,95,88,89,1.0,Eychaner has given over 25 million to Clinton Foundation,"<[2008.0, 2016.0, 1.0]>",https://www.clintonfoundation.org/contributors?category=Greater+than+%2425%2C000%2C000,1
+Personal,133,66,145,1.0,"Johnson consulted with, donated, and supported Obama","<[1.0729152E12, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/James_A._Johnson_(politics)#Association_with_Barack_Obama,1
+Corporate,158,66,202,1.0,"in 2008, prior to his election win, Obama attended a private investors meeting with Osorio at his house.",,http://www.miamiherald.com/news/local/community/miami-dade/article1955164.html,1
+Corporate,3,107,111,1.0,Christie was the registered lobbyist for them until 2001,"<[9.151488E11, 9.783072E11, 1.0]>",http://en.wikipedia.org/wiki/Chris_Christie#Lobbyist,1
+Corporate,134,137,149,1.0,Dodd got good loans from countrywide through cronyism,,http://www.wsj.com/articles/SB121279970984353933,1
+Corporate,113,107,120,1.0,Uni. Ph. Uses DH&P as their lobbying arm,"<[9.151488E11, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Chris_Christie#Lobbyist,1
+Corporate,4,160,194,1.0,Jeb Bush was on the board of InnoVida,,http://www.nationalreview.com/article/412526/jeb-bushs-big-innovida-headache-jim-geraghty,1
+Personal,70,72,50,1.0,"Cheney was head of CFR form 1987-89, 1993-95","<[7.258464E11, 7.889184E11, 1.0]>",http://www.cfr.org/about/history/cfr/appendix.html,1
+Personal,68,4,53,1.0,George and Jeb Bush are Brothers,"<[6.31152E11, 1.479168E12, 1.0]>",,1
+Corporate,137,131,170,1.0,Dodd tried to protect FM during bailout from being bailed out,"<[1.1991456E12, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Chris_Dodd#Fannie_Mae.2FFreddie_Mac_controversies,1
+Corporate,1,22,8,1.0,"Hillary served on board of directors for Wal Mart. Wal Mart is also incorporated in Arkansas, where Bill Clinton was formerly Governor","<[6.31152E11, 7.2576E11, 1.0]>",,1
+Corporate,108,3,113,1.0,Christie and Palatucci were fundraisers together and lobbyists,"<[9.151488E11, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Chris_Christie#Lobbyist,1
+Corporate,141,142,165,1.0,Mudd founded FIG,"<[1.325376E12, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Daniel_Mudd,1
+Personal,3,105,108,1.0,Married,"<[6.31152E11, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Chris_Christie#Early_life.2C_education.2C_and_family,1
+Corporate,128,129,138,1.0,Prince founded RR,"<[1.262304E12, 1.479168E12, 1.0]>",http://www.nytimes.com/2011/05/16/world/middleeast/16prince.html?_r=0,1
+Personal,103,102,103,1.0,Gates was founder of BMGates Foundation,"<[9.466848E11, 1.479168E12, 1.0]>",,1
+Service,143,66,168,1.0,Allison oversaw the TARP bailout during the Obama Admin.,"<[1.230768E12, 1.2937536E12, 1.0]>",http://en.wikipedia.org/wiki/Herbert_M._Allison,1
+Personal,135,137,150,1.0,Dodd and Mozilo are friends,,http://www.wsj.com/articles/SB121279970984353933,1
+Personal,133,62,156,1.0,Johnson is on the steering committee for Bilderberg,"<[1.3569984E12, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/James_A._Johnson_(politics)#Other_memberships,1
+Service,68,66,43,1.0,Obama succeeded Bush in 2008,"<[1.1991456E12, 1.479168E12, 1.0]>",,1
+Service,100,99,99,1.0,Soros is a trustee of ICG,"<[2008.0, 2016.0, 1.0]>",http://en.wikipedia.org/wiki/International_Crisis_Group,1
+Corporate,133,21,155,1.0,Johnson was on the board of GS,"<[9.92214E11, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/James_A._Johnson_(politics)#Other_memberships,1
+Corporate,141,131,164,1.0,Mudd led Fannie Mae starting in 2000,,http://en.wikipedia.org/wiki/Daniel_Mudd#Fannie_Mae,1
+Personal,164,168,205,1.0,Bernie and Larry Sanders are brothers. Larry is a respected Green Party member in Oxford (UK),,http://en.wikipedia.org/wiki/Bernie_Sanders#Personal_life,1
+Corporate,85,87,79,1.0,"Gust served as a Director of Jack in the Box Inc. from January 1, 2003 to February 10, 2010","<[2008.0, 2016.0, 1.0]>",http://www.bloomberg.com/research/stocks/people/person.asp?personId=274293&ticker=JACK&previousCapId=316829&previousTitle=Jack%2520in%2520the%2520Box%2520Inc.,1
+Donor,78,66,68,1.0,Donated over 755k to Obama,"<[2008.0, 2016.0, 1.0]>",https://www.opensecrets.org/pres08/contrib.php?cid=N00009638,1
+Personal,85,84,77,1.0,Anne Gust and Jerry Brown are Married,"<[2008.0, 2016.0, 1.0]>",http://en.wikipedia.org/wiki/Anne_Gust#Personal_life,1
+Corporate,135,134,147,1.0,Mozilo was head of Countrywide,"<[9.466848E11, 1.2148668E12, 1.0]>",http://en.wikipedia.org/wiki/Bank_of_America_Home_Loans#Countrywide_Financial.27s_former_management,1
+Corporate,110,109,117,1.0,Alexander was Pres. and CEO of FirstEnergy,"<[1.0729152E12, 1.4200704E12, 1.0]>",http://en.wikipedia.org/wiki/FirstEnergy#Executives,1
+Corporate,109,3,114,1.0,"FirstEnergy owns GPU, the utilities company servicing in NJ and operating 3 mile Island","<[9.783072E11, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/FirstEnergy#GPU,1
+Service,59,99,100,1.0,Mitchell is on Trustees of ICG,"<[2008.0, 2016.0, 1.0]>",http://en.wikipedia.org/wiki/International_Crisis_Group,1
+Corporate,158,4,197,1.0,"Jeb Bush ""consulted"" and invested with Osorio","<[1.1968128E12, 1.2845916E12, 1.0]>",http://d35brb9zkkbdsd.cloudfront.net/wp-content/uploads/2014/11/032113-Osorio-compromise-with-Jeb-Bush-Associates.pdf,1
+Service,70,68,45,1.0,Cheney was Vice President for G.W. Bush,"<[9.799488E11, 1.2324096E12, 1.0]>",,1
+Donor,76,66,66,1.0,Donated over 847k to Obama,"<[2008.0, 2016.0, 1.0]>",https://www.opensecrets.org/pres08/contrib.php?cid=N00009638,1
+Personal,122,124,133,1.0,Lamberto is Guilio's son,"<[6.31152E11, 1.3677948E12, 1.0]>",http://en.wikipedia.org/wiki/Giulio_Andreotti,1
+Service,67,88,80,1.0,Founder of Clinton Foundation,"<[9.783072E11, 1.479168E12, 1.0]>",https://www.clintonfoundation.org/about/board-directors,1
+Donor,20,8,5,1.0,ALPAC is Carson's PAC,"<[2008.0, 2016.0, 1.0]>",,1
+Service,118,68,127,1.0,Spellings was Bush admin domestic policy advisor in 2001 then the Secretary of Education until 2009,"<[9.783072E11, 1.230768E12, 1.0]>",http://www.reuters.com/article/2012/06/11/idUS112254+11-Jun-2012+BW20120611,1
+Personal,164,166,203,1.0,Sanders and Driscoll are married,,http://en.wikipedia.org/wiki/Bernie_Sanders#Personal_life,1
+Corporate,155,156,185,1.0,Viard is CEO and President of VCS,,http://www.washingtonpost.com/politics/role-of-hillary-clintons-brother-in-haiti-gold-mine-raises-eyebrows/2015/03/20/c8b6e3bc-cc05-11e4-a2a7-9517a3a70506_story.html,1
+Corporate,156,148,187,1.0,Viard and Rodham met at Clinton Foundation and Rodham was then given the position at VCS mining,,http://www.washingtonpost.com/politics/role-of-hillary-clintons-brother-in-haiti-gold-mine-raises-eyebrows/2015/03/20/c8b6e3bc-cc05-11e4-a2a7-9517a3a70506_story.html,1
+Service,69,70,49,1.0,"Cheney was selected to be the Secretary of Defense during the Presidency of George H. W. Bush, holding the position for the majority of Bush's term from 1989 to 1993","<[6.31152E11, 7.27488E11, 1.0]>",,1
+Corporate,89,96,93,1.0,Giustra helped found the CGE Partnership,"<[2008.0, 2016.0, 1.0]>",http://www.cgepartnership.com/,1
+Service,70,69,48,1.0,"Cheney was selected to be the Secretary of Defense during the Presidency of George H. W. Bush, holding the position for the majority of Bush's term from 1989 to 1993","<[6.31152E11, 7.27488E11, 1.0]>",,1
+Corporate,59,57,25,1.0,Mitchell was DLA Piper's chairman between 2003 and 2009,"<[1.0413792E12, 1.2622176E12, 1.0]>",,1
+Service,9,72,55,1.0,Memeber of CFR,"<[2008.0, 2016.0, 1.0]>",http://en.wikipedia.org/wiki/Members_of_the_Council_on_Foreign_Relations,1
+Personal,105,3,109,1.0,Married,"<[6.31152E11, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Chris_Christie#Early_life.2C_education.2C_and_family,1
+Corporate,70,71,47,1.0,Cheney was the Chairman and CEO of Halliburton Company from 1995 to 2000,"<[7.889184E11, 9.466848E11, 1.0]>",,1
+Service,89,99,98,1.0,Giustra helped found the ICG,"<[2008.0, 2016.0, 1.0]>",http://en.wikipedia.org/wiki/International_Crisis_Group,1
+Personal,59,61,27,1.0,"Chancellor of Queen's University in Belfast, Northern Ireland, from 1999 to 2009","<[2008.0, 2016.0, 1.0]>",,1
+Corporate,22,1,7,1.0,"Hillary served on board of directors for Wal Mart. Wal Mart is also incorporated in Arkansas, where Bill Clinton was formerly Governor","<[6.31152E11, 7.2576E11, 1.0]>",,1
+Corporate,89,93,86,1.0,"Giustra is now Chief Executive Officer of Fiore Financial Corporation, an exclusive advisory services provider to Endeavour Mining Corporation","<[2008.0, 2016.0, 1.0]>",http://en.wikipedia.org/wiki/Frank_Giustra#Investment_industry,1
+Donor,74,1,63,1.0,"Contributed over $4,500.00 to Clinton in 2007","<[2008.0, 2016.0, 1.0]>",http://en.wikipedia.org/wiki/Lloyd_Blankfein#Politics,1
+Corporate,149,151,177,1.0,Blanco is on the board of CGFM,,http://web.archive.org/web/20100502153700/http://www.gulfcoastfunds.com/managementteam/KathleenBlanco.html,1
+Donor,16,1,3,1.0,Hillary's PAC,"<[2008.0, 2016.0, 1.0]>",,1
+Corporate,107,108,112,1.0,Palatucci was a founding partner,"<[6.31152E11, 1.479168E12, 1.0]>",,1
+Corporate,59,60,26,1.0,Mitchell served as chairman of The Walt Disney Company from March 2004 until January 2007,"<[1.0780992E12, 1.1676096E12, 1.0]>",,1
+Service,1,72,57,1.0,Member of CFR,"<[2008.0, 2016.0, 1.0]>",http://en.wikipedia.org/wiki/Members_of_the_Council_on_Foreign_Relations,1
+Service,3,121,130,1.0,"Christie used to work for Ashcroft, then set him up to manage a contract worth a possible 50 million dollars","<[1.1991456E12, 1.479168E12, 1.0]>",http://blog.nj.com/ledgerarchives/2008/11/christie_quits_setting_gop_whe_1.html,1
+Personal,63,64,29,1.0,Miriam González Durántez and Nick Clegg are married,"<[9.730368E11, 1.479168E12, 1.0]>",,1
+Service,151,152,178,1.0,Blanco didn't run after Katrina and was secceeded by Jindal,,http://en.wikipedia.org/wiki/Kathleen_Blanco#Hurricane_Katrina,1
+Service,102,88,102,1.0,BMGates foundation donates over 25 million to Clinton Foundation,"<[2008.0, 2016.0, 1.0]>",https://www.clintonfoundation.org/contributors?category=Greater+than+%2425%2C000%2C000,1
+Corporate,93,94,88,1.0,Fiore Financial Corporation is the exclusive advisory services provider to Endeavour Mining Corporation,"<[2008.0, 2016.0, 1.0]>",http://www.endeavourmining.com/s/Home.asp,1
+Service,68,70,46,1.0,Cheney was Vice President for G.W. Bush,"<[9.799488E11, 1.2324096E12, 1.0]>",,1
+Corporate,130,131,143,1.0,Quinn was on the board of Fannie Mae,"<[8.520768E11, 9.782208E11, 1.0]>",https://www.academi.com/pages/about-us/board-of-directors/jack-quinn,1
+Personal,140,135,161,1.0,Raines got preferred loans with countrywide for being friends with Mozilo,,http://www.wsj.com/articles/SB121279970984353933,1
+Corporate,63,57,31,1.0,was a partner at DLA Piper from 2006 to 2011.,"<[1.1360736E12, 1.3252896E12, 1.0]>",,1
+Corporate,89,91,84,1.0,Frank founded Yorkton Securities,"<[2008.0, 2016.0, 1.0]>",http://en.wikipedia.org/wiki/Frank_Giustra#Investment_industry,1
+Corporate,5,81,72,1.0,Served as CEO of Bain & Co.,"<[2008.0, 2016.0, 1.0]>",http://en.wikipedia.org/wiki/Mitt_Romney,1
+Corporate,158,1,199,1.0,Clinton attended personal events at Osorio's residence prior to the 2008 election,,http://www.orlandosentinel.com/business/brinkmann-on-business/os-cnbc-tackles-claudio-osorio-jeb-bush-the-clintons-20150224-post.html,1
+Corporate,122,123,132,1.0,Andreotti is on the board of Dupont,"<[1.325376E12, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Lamberto_Andreotti,1
+Corporate,163,4,198,1.0,"Bush recieved 75k for ""real-estate"" consulting form Recarey in 1985, Recarey got caught with fraud and remains a fugitive",,http://www.tampabay.com/news/politics/stateroundup/jeb-bushs-tie-to-fugitive-miguel-recarey-goes-against-business-savvy-image/2221816,1
+Corporate,123,9,134,1.0,Biden was senator of the state where Dupont is headquartered,"<[6.31152E11, 1.479168E12, 1.0]>",,1
+Corporate,3,109,115,1.0,Christie lobbied on behalf of FirstEnergy subsidaries,"<[9.151488E11, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Chris_Christie#Lobbyist,1
+Service,69,67,37,1.0,Clinton defeated Bush in 1992,"<[6.94224E11, 1.479168E12, 1.0]>",,1
+Personal,66,1,33,1.0,Made her his Secretary of State and ran against her in Primaries,"<[1.232496E12, 1.3596768E12, 1.0]>",,1
+Corporate,105,106,110,1.0,Worked at Cantor Fitzgerald until 2001,"<[6.31152E11, 9.783072E11, 1.0]>",http://en.wikipedia.org/wiki/Chris_Christie#Early_life.2C_education.2C_and_family,1
+Personal,74,81,71,1.0,"His son, Alexander Blankfein, works for Bain & Co.","<[2008.0, 2016.0, 1.0]>",http://www.nytimes.com/2013/03/17/fashion/weddings/cristina-ros-alexander-blankfein-weddings.html?_r=0,1
+Corporate,4,162,195,1.0,Jeb Bush founded Jeb Bush and Associates,,,1
+Corporate,52,54,20,1.0,David Koch is Chairman of Americans for Prosperity,"<[2008.0, 2016.0, 1.0]>",,1
+Personal,51,52,16,1.0,Brothers,"<[6.31152E11, 1.479168E12, 1.0]>",,1
+Corporate,74,21,62,1.0,Served as CEO of GS since 2006,"<[1.1360736E12, 1.479168E12, 1.0]>",,1
+Corporate,130,127,141,1.0,Quinn co-chairs the Governance and Compliance Committee of Academi with former Attorney General and Senator John Ashcroft.,"<[1.2365568E12, 1.479168E12, 1.0]>",https://www.academi.com/pages/about-us/board-of-directors/jack-quinn,1
+Personal,84,85,76,1.0,Anne Gust and Jerry Brown are Married,"<[2008.0, 2016.0, 1.0]>",http://en.wikipedia.org/wiki/Anne_Gust#Personal_life,1
+Corporate,3,111,118,1.0,Christie lobbied on behalf of Sec. Industry while at DH&P,"<[9.151488E11, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Chris_Christie#Lobbyist,1
+Personal,52,51,17,1.0,Brothers,"<[6.31152E11, 1.479168E12, 1.0]>",,1
+Personal,154,1,182,1.0,Hugh is Hillary's brother,,,1
+Corporate,134,136,148,1.0,Countrywide was bought by BAC during the financial collapse and TARP legislation,"<[1.230768E12, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Bank_of_America_Home_Loans#Countrywide_Financial.27s_former_management,1
+Corporate,5,104,105,1.0,Romney founded Bain Capital Steped down in 1994,"<[6.31152E11, 7.83648E11, 1.0]>",http://en.wikipedia.org/wiki/Mitt_Romney,1
+Service,1,66,34,1.0,She ran against him in 2008 and served as his Sec. State,"<[1.1991456E12, 1.262304E12, 1.0]>",,1
+Corporate,157,155,189,1.0,Bellerive is part of VCS Mining-joined same time as Rodham,,http://www.washingtonpost.com/politics/role-of-hillary-clintons-brother-in-haiti-gold-mine-raises-eyebrows/2015/03/20/c8b6e3bc-cc05-11e4-a2a7-9517a3a70506_story.html,1
+Corporate,3,113,121,1.0,Christie Lobbied for them in 1999-2000,"<[9.151488E11, 9.795168E11, 1.0]>",http://en.wikipedia.org/wiki/Chris_Christie#Lobbyist,1
+Corporate,158,161,193,1.0,Craig Toll was the CFO for InnoVida while Osorio was CEO,"<[1.1676096E12, 1.2937536E12, 1.0]>",http://en.wikipedia.org/wiki/Claudio_Osorio,1
+Corporate,158,159,191,1.0,Osorio was the CEO of CHS,"<[6.31152E11, 9.782208E11, 1.0]>",http://en.wikipedia.org/wiki/Claudio_Osorio,1
+Corporate,113,112,119,1.0,Uni.Ph. is a subsidary of Apollo,"<[7.573824E11, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/University_of_Phoenix,1
+Service,73,72,59,1.0,Member of CFR,"<[2008.0, 2016.0, 1.0]>",http://en.wikipedia.org/wiki/Members_of_the_Council_on_Foreign_Relations,1
+Personal,139,117,153,1.0,Nancy is Paul's Mother,"<[6.31152E11, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Angelo_Mozilo#Friends_of_Angelo_.28FOA.29_VIP_program,1
+Shell Money,49,34,13,1.0,Shell PAC,"<[2008.0, 2016.0, 1.0]>",,1
+Corporate,128,127,139,1.0,Prince founded Academi/Xe/Blackwater,"<[1.2365568E12, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Erik_Prince,1
+Personal,3,68,107,1.0,Christie campaigned for Bush and was his campaign lawyer in NJ,"<[9.151488E11, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Chris_Christie,1
+Corporate,107,109,116,1.0,DH&P was FirstEnergy's lobbying firm,"<[9.151488E11, 1.479168E12, 1.0]>",,1
+Corporate,148,155,184,1.0,Rodham (on the board) may have helped negotiate a Hatian gold mining contract for the company using the Clinton Foundation as its social intermediary),,http://finance.yahoo.com/news/vcs-mining-responds-recent-media-221600832.html,1
+Corporate,56,57,23,1.0,Dick Armey went to work as a Lobbyist for DLA Piper after leaving congress,"<[2008.0, 2016.0, 1.0]>",,1
+Personal,154,148,183,1.0,"Hugh and Tony are brothers. Hugh teams up with younger brother Tony in an enterprise to grow and export hazelnuts from the former Soviet Republic of Georgia. The $118 million venture comes to a screeching halt when Bill and Hillary discover that the brothers' business partner also happens to be the chief political rival of Georgian president Eduard Shevardnadze, a key U.S. ally. Months later, Hugh and Tony were back in the headlines — the brothers reportedly thought it might be OK if they stopped actually growing the nuts and just kept exporting them.",,"http://content.time.com/time/nation/article/0,8599,100329,00.html",1
+Personal,148,88,188,1.0,Rodham uses CF as political leverage for positions,,http://www.washingtonpost.com/politics/role-of-hillary-clintons-brother-in-haiti-gold-mine-raises-eyebrows/2015/03/20/c8b6e3bc-cc05-11e4-a2a7-9517a3a70506_story.html,1
+Donor,75,66,65,1.0,"Donated over $850,000 to Obama","<[2008.0, 2016.0, 1.0]>",https://www.opensecrets.org/pres08/contrib.php?cid=N00009638,1
+Personal,67,1,36,1.0,Married,"<[6.31152E11, 1.479168E12, 1.0]>",,1
+Corporate,89,94,87,1.0,Endeavour Mining corp. takes exclusive advise from Giustra's Fiore Financial,"<[2008.0, 2016.0, 1.0]>",http://www.endeavourmining.com/s/Home.asp,1
+Corporate,140,131,159,1.0,Raines was in and out of Fannie May from 1991-2004,"<[6.62688E11, 1.0729152E12, 1.0]>",http://en.wikipedia.org/wiki/Franklin_Raines,1
+Corporate,85,86,78,1.0,"Anne Gust was an executive for The Gap, Inc. from 1991-2005","<[2008.0, 2016.0, 1.0]>",http://www.bloomberg.com/research/stocks/people/person.asp?personId=274293&ticker=JACK&previousCapId=316829&previousTitle=Jack%2520in%2520the%2520Box%2520Inc.,1
+Corporate,97,98,97,1.0,Mark was previous head of TNT Express (COO and CEO),"<[6.31152E11, 1.3280544E12, 1.0]>",https://www.linkedin.com/pub/mark-gunton/16/957/750,1
+Donor,21,66,64,1.0,Donated over 1 million to the Obama campaign,"<[2008.0, 2016.0, 1.0]>",https://www.opensecrets.org/pres08/contrib.php?cid=N00009638,1
+Shell Money,44,31,9,1.0,Shell PAC,"<[2008.0, 2016.0, 1.0]>",,1
+Corporate,118,112,126,1.0,Spellings is on the Board of Directors,"<[9.92214E11, 1.479168E12, 1.0]>",http://www.reuters.com/article/2012/06/11/idUS112254+11-Jun-2012+BW20120611,1
+Personal,89,67,90,1.0,Guistra donated 31 million to Clinton Foundation,"<[2008.0, 2016.0, 1.0]>",http://www.nytimes.com/2008/01/31/us/politics/31donor.html?_r=0,1
+Corporate,73,21,61,1.0,Chairman and Chief Executive Officer of Goldman Sachs,"<[9.151488E11, 1.1523996E12, 1.0]>",http://en.wikipedia.org/wiki/Henry_Paulson#Goldman_Sachs,1
+Corporate,158,88,201,1.0,Osorio donated to the Clinton Foundation in return for deals with Haitian post-earthquake development,,http://www.bizjournals.com/southflorida/blog/2013/09/bill-hillary-chelsea-clinton-osorio.html,1
+Corporate,89,88,82,1.0,"Donated over 25,000,000 to the Clinton Foundation","<[2008.0, 2016.0, 1.0]>",https://www.clintonfoundation.org/contributors?category=Greater+than+%2425%2C000%2C000,1
+Donor,79,66,69,1.0,Donated over 500k to Obama,"<[2008.0, 2016.0, 1.0]>",https://www.opensecrets.org/pres08/contrib.php?cid=N00009638,1
+Personal,4,69,51,1.0,Jeb is the son of G.H.W. Bush,"<[6.31152E11, 1.479168E12, 1.0]>",,1
+Corporate,149,153,180,1.0,Owen Picket serves on board of CGFM,,http://web.archive.org/web/20101011173754/http://www.gulfcoastfunds.com/managementteam/OwenPickett.html,1
+Personal,3,119,128,1.0,Christie went to Seaton Hall University as an Undergrad,"<[6.31152E11, 1.479168E12, 1.0]>",,1
+Corporate,149,150,176,1.0,CGFM uses an offshore shell to invest in GreenTech Automotive,,http://web.archive.org/web/20110112001013/http://www.gulfcoastfunds.com/investmentfunds/automotivefund/,1
+Personal,69,4,52,1.0,Jeb is the son of G.H.W. Bush,"<[6.31152E11, 1.479168E12, 1.0]>",,1
+Corporate,166,167,204,1.0,Driscoll is the president of Burlington College,,http://en.wikipedia.org/wiki/Bernie_Sanders#Personal_life,1
+Service,73,68,60,1.0,Served as Treasury Secretary under G.W. Bush,"<[1.152486E12, 1.2324096E12, 1.0]>",http://en.wikipedia.org/wiki/Henry_Paulson,1
+Personal,64,63,30,1.0,Miriam González Durántez and Nick Clegg are married,"<[9.730368E11, 1.479168E12, 1.0]>",,1
+Shell Money,46,38,11,1.0,Shell PAC,"<[2008.0, 2016.0, 1.0]>",,1
+Corporate,143,90,166,1.0,Allison worked for ML for 28 years,"<[6.31152E11, 1.2306816E12, 1.0]>",http://en.wikipedia.org/wiki/Herbert_M._Allison,1
+Corporate,125,126,136,1.0,Ashcroft Group lobbies for Oracle,"<[1.1045376E12, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/John_Ashcroft#Consultant_and_lobbyist,1
+Service,140,67,158,1.0,Raines served in the Clinton Administration,"<[8.425692E11, 8.957052E11, 1.0]>",http://en.wikipedia.org/wiki/Franklin_Raines,1
+Donor,19,4,4,1.0,It is Bush's PAC,"<[2008.0, 2016.0, 1.0]>",,1
+Corporate,143,132,167,1.0,Allison worked at NY Fed,,http://en.wikipedia.org/wiki/Herbert_M._Allison,1
+Corporate,133,131,144,1.0,Johnson ran FM from 1991–1998,"<[6.62688E11, 9.150624E11, 1.0]>",http://en.wikipedia.org/wiki/Fannie_Mae,1
+Donor,77,66,67,1.0,Donated over 817k to Obama,"<[2008.0, 2016.0, 1.0]>",https://www.opensecrets.org/pres08/contrib.php?cid=N00009638,1
+Corporate,103,75,104,1.0,Bill Gates founded Microsoft Corporation,"<[6.31152E11, 1.479168E12, 1.0]>",,1
+Service,68,3,106,1.0,Bush appointed Christie Attny General of NJ,"<[1.0112256E12, 1.2280896E12, 1.0]>",http://en.wikipedia.org/wiki/Chris_Christie,1
+Donor,17,11,2,1.0,O'Malley's PAC,"<[2008.0, 2016.0, 1.0]>",,1
+Personal,101,89,101,1.0,Married to Frank Giustra,"<[2008.0, 2016.0, 1.0]>",http://en.wikipedia.org/wiki/Alison_Lawton,1
+Corporate,137,145,172,1.0,"After Dodd left Senate, he went to work lobbying for MPAA","<[1.2989376E12, 1.479168E12, 1.0]>",http://en.wikipedia.org/wiki/Motion_Picture_Association_of_America,1
